@@ -13,4 +13,11 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="email_account">zlj@gamil.com</string>
+    <string name="email_password">whu2015</string>
+    <string name="email_input_error">邮箱格式错误</string>
+    <string name="password_input_error">密码格式错误</string>
+    <string name="hello_text">这是张丽婧的app</string>
+    <string name="to_click">点击下面按钮进入邮箱登陆页面</string>
+    <string name="button_to_login">点我进入</string>
 </resources>
