@@ -19,7 +19,7 @@
 
  1.启动页面
  
->HelloWordActivity.java
+**HelloWordActivity.java**
 ```java
 public class HelloWorldActivity extends AppCompatActivity {
 
@@ -40,7 +40,7 @@ public class HelloWorldActivity extends AppCompatActivity {
     }
 }
 ```
->activity_hello_word.xml
+**activity_hello_word.xml**
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -87,7 +87,7 @@ public class HelloWorldActivity extends AppCompatActivity {
 ```
 2.登录页面
  
->MainActivity.java
+**MainActivity.java**
 ```java
 public class MainActivity extends Activity {
 
@@ -126,7 +126,7 @@ public class MainActivity extends Activity {
         });
     }
 ```
->activity_main.xml
+**activity_main.xml**
 ```xml
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
@@ -179,7 +179,7 @@ public class MainActivity extends Activity {
 </LinearLayout>
 ```
 3.资源文件
->string.xml
+**string.xml**
 ```xml
 <resources>
     <string name="app_name">HelloWorldForZhang</string>
@@ -216,5 +216,10 @@ public class MainActivity extends Activity {
     <color name="white">#FFFFFF</color>
     <color name="black">#000000</color>
 </resources>
-
 ```
+4.页面截图
+![start][1]
+
+![login][2]
+  [1]: https://raw.githubusercontent.com/greatpie/AndroidStudioTest/master/app/src/main/res/screen_shot/start.png
+  [2]: https://raw.githubusercontent.com/greatpie/AndroidStudioTest/master/app/src/main/res/screen_shot/login.png
