@@ -1,6 +1,6 @@
 # 武汉大学android开发课程作业
-作者：武汉大学 王叔君
-标签（空格分隔）： android whu wsj
+作者：武汉大学新闻与传播学院 张丽婧
+标签（空格分隔）： android whu zlj
 
 ---
 **开发环境**
@@ -13,7 +13,7 @@
 
  1. 实现启动页面（*HellowWordActivity*），通过按钮点击事件跳转到邮箱登录界面(*MainActivity*)
  2. 邮箱登录界面正则匹配正确的邮箱及密码格式，并有错误提示。
- 3. 正确邮箱名为wsj@gmail.com，密码为whu2015，此值可在string.xml中修改。
+ 3. 正确邮箱名为zlj@gmail.com，密码为whu2015，此值可在string.xml中修改。
 
 **重要代码**
 
@@ -221,5 +221,5 @@ public class MainActivity extends Activity {
 ![start][1]
 
 ![login][2]
-  [1]: https://raw.githubusercontent.com/greatpie/AndroidStudioTest/master/app/src/main/res/screen_shot/start_wang.png
+  [1]: https://raw.githubusercontent.com/greatpie/AndroidStudioTest/master/app/src/main/res/screen_shot/start.png
   [2]: https://raw.githubusercontent.com/greatpie/AndroidStudioTest/master/app/src/main/res/screen_shot/login.png
